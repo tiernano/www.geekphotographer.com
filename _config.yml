@@ -1,7 +1,7 @@
 title: GeekPhotographer
 description: Geek + Photos
 
-url: http://www.geekphotographer.com
+url: https://www.geekphotographer.com
 baseurl: ""
 paginate_path: "/page:num/"
 permalink: :title/
