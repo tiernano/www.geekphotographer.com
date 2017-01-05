@@ -7,7 +7,7 @@ categories:
   - Hardware
 ---
 
-![mainimage](/wp-content/uploads/2016/08/20160825-5dmk4.jpg "Canon 5D MKIV")
+![mainimage](https://www.geekphotographer.com/wp-content/uploads/2016/08/20160825-5dmk4.jpg "Canon 5D MKIV")
 
 Canon have just announced the 5D MK IV.  it has 30.4-megapixel, full-frame CMOS sensor and Digic 6+ processor, includes Wifi, GPS and NFC (all welcome extras!) and ISO range of 100-32,000 with  61-point autofocus. It also shoots 4k video (23.98, 24, 25 and 30 fps) and has both CF and SD slots. Available body only in September for $3499 body only ([BH Link][1]), or $4399 with a EF24-70mm f/4L ([BH Link][2]) or $4,599 with a EF24-105mm f/4L IS II USM lens ([BH Link][3]).
 
