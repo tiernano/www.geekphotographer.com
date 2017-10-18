@@ -8,8 +8,6 @@ categories:
 - Adobe
 - software
 ---
-
-
 ![](/uploads/2017/10/18/lightroom-cc.PNG)
 
 I have been an Adobe Lightroom user for, well, many a year. I bought a few boxes and download editions (I still have a box of Lightroom 3 here on my desk!) and when CC and the "cloud" editions came out, i bought the Photography bundle, and have been using that since. Over the years, they have added many features, including mobile apps for iOS and Android, but performance on the desktop has, in some cases, suffered...
@@ -31,4 +29,12 @@ So, there you have it. There was an update to Photoshop too... full disclosure: 
 <iframe width="100%" height="auto" src="https://www.youtube.com/embed/eDhzGtwNCGg" frameborder="0" allowfullscreen="" async="" preload=""></iframe>
 
 [Bye Bye Lightroom, Hello Lightroom CC and Faster Lightroom Classic [PetaPixel]](https://petapixel.com/2017/10/18/bye-bye-lightroom-hello-lightroom-cc-faster-lightroom-classic/)
+
+[Adobe Announces Lightroom Classic CC, Lightroom CC, Photoshop CC Updates and More (FStoppers)](https://fstoppers.com/apps/adobe-announces-lightroom-classic-cc-lightroom-cc-photoshop-cc-updates-and-more-200026)
+
+[Fstoppers Reviews the New Adobe Lightroom CC (FStoppers)](https://fstoppers.com/apps/fstoppers-reviews-new-adobe-lightroom-cc-200049)
+
+[Is Adobe Lightroom Classic CC Really Faster? (FStoppers)](https://fstoppers.com/apps/adobe-lightroom-classic-cc-really-faster-200058)
+
+[A New Lightroom is Here (and with it a whole new Ecosystem) (Lightroom Killer Tips)](https://lightroomkillertips.com/new-lightroom-whole-new-ecosystem/)
 
