@@ -1,5 +1,5 @@
 ---
-title:Olympus' E-3 DSLR gets reviewed
+title: Olympus' E-3 DSLR gets reviewed
 author: tiernano
 layout: post
 permalink: /olympus-e-3-dslr-gets-reviewed/
