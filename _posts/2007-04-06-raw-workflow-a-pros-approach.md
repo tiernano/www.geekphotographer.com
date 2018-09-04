@@ -1,5 +1,5 @@
 ---
-title: RAW workflow: A pro's approach
+title: RAW workflow A pro's approach
 author: tiernano
 layout: post
 permalink: /raw-workflow-a-pros-approach/
