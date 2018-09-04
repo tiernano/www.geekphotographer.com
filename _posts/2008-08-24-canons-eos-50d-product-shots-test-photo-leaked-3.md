@@ -1,5 +1,5 @@
 ---
-title: 'Canon's EOS 50D product shots, test photo leaked'
+title: Canon's EOS 50D product shots, test photo leaked
 author: tiernano
 layout: post
 permalink: /canons-eos-50d-product-shots-test-photo-leaked-3/
@@ -8,8 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[  
-<img class="reflect" src="http://farm4.static.flickr.com/3110/2793592701_f17b076cd9.jpg?v=0" alt="50d_big.jpg by you." width="500" height="446" />][1]
+[<img class="reflect" src="http://farm4.static.flickr.com/3110/2793592701_f17b076cd9.jpg?v=0" alt="50d_big.jpg by you." width="500" height="446" />][1]
 
 Engadget have some photos of the rumored 50D. Guessing its a replacment to the 40D. MP, and there are some more shots, including a demo shot taken with the camera, available on [PhotographyBay][2]. Still waiting on that elusive 5D replacment.  
 [Canon's EOS 50D product shots, test photo leaked &#8211; Engadget][3]
