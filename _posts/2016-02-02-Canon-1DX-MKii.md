@@ -7,7 +7,7 @@ categories:
   - Hardware
 ---
 
-![mainimage]((https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160202-canon1dxmkii.jpg "Canon 1DX MKii")
+![mainimage](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160202-canon1dxmkii.jpg "Canon 1DX MKii")
 
 This morning (Feburary 2nd 2016) Canon announced a new camera, the 1DX MKii. It a pretty impressive piece of kit. It has:
 

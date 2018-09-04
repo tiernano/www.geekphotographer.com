@@ -7,7 +7,7 @@ categories:
   - Hardware
 ---
 
-![mainimage]((https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-eos80d.jpg "Canon 80D")
+![mainimage](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-eos80d.jpg "Canon 80D")
 
 Today, Feburary 18 2016, Canon announced a few new cameras. First, the 80D (pictured above). Basic details:
 
@@ -20,7 +20,7 @@ Available in store at $1200 in April, body only. [Engadget have more details][1]
 
 Next, 2 new Powershots. First, is the G7X MK II:
 
-![mainimage]((https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-psg7xmkii.jpg "Powershot G7X MKII")
+![mainimage](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-psg7xmkii.jpg "Powershot G7X MKII")
 
 * 20MP 1 inch sensor, backed by a DIGIC 7 processor
 * 8 FPS RAW shooting
@@ -31,7 +31,7 @@ Available May for $699. More on [DP Review][5] and [Engadget][4].
 
 Finally, the Powershot SX720:
 
-![mainimage]((https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-pssx720.jpg "Powershot SX720")
+![mainimage](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160218-pssx720.jpg "Powershot SX720")
 
 * 35mm-equivalent of 24-960mm at F3.3-6.9
 * 20.3MP DIGIC 6 processor
