@@ -14,6 +14,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-This is something i want to do a lot of, mainly at might since Dublin is a lovley city at night. I just havent had a chance to do a lot of it. [this][1] page on Digital Potography School&#8217;s blog has some tips on photographing in Citys. very cool stuff. bk_keywords:photography, urban
+This is something i want to do a lot of, mainly at might since Dublin is a lovley city at night. I just havent had a chance to do a lot of it. [this][1] page on Digital Potography School's blog has some tips on photographing in Citys. very cool stuff. bk_keywords:photography, urban
 
  [1]: http://digital-photography-school.com/blog/photographing-urban-landscapes/

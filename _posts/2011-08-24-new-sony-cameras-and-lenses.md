@@ -14,14 +14,14 @@ categories:
 
 [Updated] Adding photos, and one more link (the HandyCam).
 
-Its been a while since i posted here, but here we go anyway&#8230; Good bit of Sony news today:
+Its been a while since i posted here, but here we go anyway. Good bit of Sony news today:
 
   * [Sony unveils NEX-7: 24.3 MP sensor, OLED viewfinder, $1199 price tag][2] &#8211; Biger brother of my NEX3, and now the top of the line (i think) of the NEX models.
   * [Sony NEX-5N replaces NEX-5, adds 16.1 MP sensor, 25,600 max ISO, OLED viewfinder option ][3] &#8211; Upgrade to the NEX-5
-  * [Sony reveals three new NEX E-mount lenses, LA-EA2 A-mount adaptor with translucent mirror][4] &#8211; New glass for the NEX system&#8230; tempted by the 1.8 50mm&#8230;
-  * [Sony Alpha A77 hands-on preview][5] The A77 seems, but i could be wrong here, to be the daddy of cameras announced yesterday&#8230; by that i mean its the biggest/baddest one Sony announced yesterday, but that its the daddy overall&#8230; I think there is a bigger Sony out there somewhere, but i dont follow Sony cameras that much (other than the fact i have a NEX 3).
-  * [Sony announces entry-level A65, adds yet another DSLR to the Alpha family][6] &#8211; Seems to be a few steps up the food chain from the NEX Range, but below the bigger A series cameras&#8230; Looks interesting&#8230; 1080/60P video, 10FPS, and 24MP&#8230; Not bad&#8230;
-  * [Sony debuts the Handycam NEX-VG20 ][7] Nice new Video camera, with RAW photo support (16MP) and 1080P video. Records audio at either Stereo or 5.1. Wondering if it needs an adapter for that&#8230;
+  * [Sony reveals three new NEX E-mount lenses, LA-EA2 A-mount adaptor with translucent mirror][4] &#8211; New glass for the NEX system. tempted by the 1.8 50mm.
+  * [Sony Alpha A77 hands-on preview][5] The A77 seems, but i could be wrong here, to be the daddy of cameras announced yesterday. by that i mean its the biggest/baddest one Sony announced yesterday, but that its the daddy overall. I think there is a bigger Sony out there somewhere, but i dont follow Sony cameras that much (other than the fact i have a NEX 3).
+  * [Sony announces entry-level A65, adds yet another DSLR to the Alpha family][6] &#8211; Seems to be a few steps up the food chain from the NEX Range, but below the bigger A series cameras. Looks interesting. 1080/60P video, 10FPS, and 24MP. Not bad.
+  * [Sony debuts the Handycam NEX-VG20 ][7] Nice new Video camera, with RAW photo support (16MP) and 1080P video. Records audio at either Stereo or 5.1. Wondering if it needs an adapter for that.
 
 [<img class="alignnone size-medium wp-image-279" title="2011-08-24-a77lead" src="http://geekphotographer.com/wp-content/uploads/2011/08/2011-08-24-a77lead-300x197.jpg" alt="Sony A77" width="300" height="197" />][8]
 

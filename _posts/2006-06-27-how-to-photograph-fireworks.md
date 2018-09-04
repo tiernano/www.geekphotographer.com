@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Digital phtoography school has an article talking about [photographing Fireworks][1]! might be handy for some. fireworks time wont happen here for another few months, but nice to know!  
-bk_keyworks: photograph, howto, camera
+Digital phtoography school has an article talking about [photographing Fireworks][1]! might be handy for some. fireworks time wont happen here for another few months, but nice to know!
 
  [1]: http://digital-photography-school.com/blog/how-to-photograph-fireworks/

@@ -15,7 +15,7 @@ tags:
   - samsung
   - wifi
 ---
-![Samsung Galaxy Camera][1]Ok, so last week, Nikon announced their Android powered camera, The [Coolpix S800C][2]. It &#8220;seemed&#8221; interesting, but a couple things got me… for one, it was running Android 2.3.3, which is way too old… and 2, it&#8217;s a Nikon, and I am a Canon Guy… <span style="font-family: Wingdings;">J</span>
+![Samsung Galaxy Camera][1]Ok, so last week, Nikon announced their Android powered camera, The [Coolpix S800C][2]. It &#8220;seemed&#8221; interesting, but a couple things got me… for one, it was running Android 2.3.3, which is way too old… and 2, it's a Nikon, and I am a Canon Guy… <span style="font-family: Wingdings;">J</span>
 
 ![Nikon Coolpix S800C][3]
 
@@ -23,7 +23,7 @@ But anyway, looked interesting none the less, and the things that interested me 
 
 Today, Samsung has announced their camera, the Galaxy Camera (photo at the start of the blog) and this is something I am a lot more interested in.
 
-It is running the latest version of Android, Jelly Bean 4.1, and has both Wi-Fi and 3/4G connectivity, meaning you can take photos and send them online, even if you are out of Wi-Fi coverage! The whole back of the camera is screen, 4.8&#8243; 1280X720 touch screen. Photos are taken on Micro SD, and there is a auto backup feature allowing you to send your photos to &#8220;the cloud&#8221; while shooting connected. I assume you can tell it to only backup when on Wi-Fi, or on either Wi-Fi or 3g. My current Android and Windows Phones have that feature, so don&#8217;t see why it won&#8217;t be in here… And, to make things even more interesting, the camera has a Quad Core 1.4Gz processor, ISO of 3200 and an F2.8-5.9 23 – 480mm lens. Pretty damn impressive!
+It is running the latest version of Android, Jelly Bean 4.1, and has both Wi-Fi and 3/4G connectivity, meaning you can take photos and send them online, even if you are out of Wi-Fi coverage! The whole back of the camera is screen, 4.8&#8243; 1280X720 touch screen. Photos are taken on Micro SD, and there is a auto backup feature allowing you to send your photos to &#8220;the cloud&#8221; while shooting connected. I assume you can tell it to only backup when on Wi-Fi, or on either Wi-Fi or 3g. My current Android and Windows Phones have that feature, so don't see why it won't be in here… And, to make things even more interesting, the camera has a Quad Core 1.4Gz processor, ISO of 3200 and an F2.8-5.9 23 – 480mm lens. Pretty damn impressive!
 
 No word on price, but I defiantly think I want one of these! For more info, check the [Engadget article][4].
 

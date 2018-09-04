@@ -14,7 +14,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-check [out this section of the digital photography blog][1] with a LOT of reviews of different cameras. they not only have their own review, but link to others too. very cool resource!   
-bk_keywords:digital camera
+check [out this section of the digital photography blog][1] with a LOT of reviews of different cameras. they not only have their own review, but link to others too. very cool resource!
 
  [1]: http://www.livingroom.org.au/photolog/reviews/

@@ -12,8 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-check out [this quick post explaing ISO settings][1] in digital photography. very handy read, and jolts the memory on how to correctly use this&#8230;
-
-bk_keywords:350d, digital camera
+check out [this quick post explaing ISO settings][1] in digital photography. very handy read, and jolts the memory on how to correctly use this.
 
  [1]: http://digital-photography-school.com/blog/iso-settings/

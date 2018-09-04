@@ -5,4 +5,4 @@ layout: page
 dsq_thread_id:
   - 29959081
 ---
-Welcome. more comming soon&#8230;
+Welcome. more comming soon.

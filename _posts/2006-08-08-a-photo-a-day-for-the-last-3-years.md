@@ -14,6 +14,5 @@ categories:
 ---
 check out [this video called &#8220;Me&#8221;][1] which is a video ofone woman who took a photo of her self every day for the last 3 years. very cool stuff!
 
-bk_keywords:photography
 
  [1]: http://www.atomfilms.com/contentPlay/videoAutoPlay.jsp?id=me&refCode=&brand=filmmaker#

@@ -12,7 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-The interestingly named blog &#8220;Get Rich slowly&#8221; has an article on [how to sell your digital photos][1]. i might try this one of these days&#8230;
+The interestingly named blog &#8220;Get Rich slowly&#8221; has an article on [how to sell your digital photos][1]. i might try this one of these days.
 
 bk_keywords:camera
 

@@ -14,9 +14,9 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Check out this video over at Chase Jarvis&#8217; blog showing you his [custom laptop case for photography][1]. This is very cool! 1 or 2 things though:  
+Check out this video over at Chase Jarvis' blog showing you his [custom laptop case for photography][1]. This is very cool! 1 or 2 things though:  
 1: will it hold a 17&#8243; Mac Book Pro?  
-2: Would be cooler if it could hold a camera too&#8230;  
+2: Would be cooler if it could hold a camera too.  
 3: I want one! <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
  [1]: http://chasejarvis.com/blog/2007/03/photography-laptop-case-aka-pimp-your.html

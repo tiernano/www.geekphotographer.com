@@ -7,7 +7,7 @@ categories:
 - Hardware
 date: 2017-06-29 00:00:00 +0000
 ---
-![Canon 6D MK II](https://www.geekphotographer.com/wp-content/uploads/2017/06/29/6dmkii.0.jpg)
+![Canon 6D MK II](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/6dmkii.0.jpg)
 
 Canon have just announced the new EOS 6d MK II. its an upgrade to the older 6D (which i had for a while and was very happy with). So, whats new?
 

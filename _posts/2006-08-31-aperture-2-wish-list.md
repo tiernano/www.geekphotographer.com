@@ -12,7 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-[Photographs, Photographers and Photography has a wishlist for Aperture 2.0][1], which May or May not be comming at [PhotoKina][2]. We will see&#8230;
+[Photographs, Photographers and Photography has a wishlist for Aperture 2.0][1], which May or May not be comming at [PhotoKina][2]. We will see.
 
 bk_keywords:Apple Aperture
 

@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Ok, maybe its not the camera thats $11, but the [lense is][1]. and i use the word lens in the losest of posible ways. its actually a security viwerer for a door. interesting idea, but i dont know if i would use it or not. i would want to see how it works&#8230;   
-bk_keywords:lens, wide angle
+Ok, maybe its not the camera thats $11, but the [lense is][1]. and i use the word lens in the losest of posible ways. its actually a security viwerer for a door. interesting idea, but i dont know if i would use it or not. i would want to see how it works
 
  [1]: http://www.instructables.com/ex/i/1D59459A4AC71029AC23001143E7E506/?ALLSTEPS

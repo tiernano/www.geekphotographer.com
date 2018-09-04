@@ -14,6 +14,5 @@ categories:
 ---
 Check out this tutorial showing you how to build a [Tilt-Shift PC Lens][1]. interesting effects this has. 
 
-bk_keywords:lens, camera, tilt-shift
 
  [1]: http://www.dennisonbertram.com/hackmaster/2005/02/tilt-shift-pc-lens.htm

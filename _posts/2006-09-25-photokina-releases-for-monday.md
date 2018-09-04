@@ -14,15 +14,15 @@ categories:
 ---
 Ok, so Photokina starts tomorrow (Tueday), but a lot of things are being released today, or at least announced. so here are some links:
 
-[Fujifilm&#8217;s FinePix S5 Pro DSLR and F31fd][1]
+[Fujifilm's FinePix S5 Pro DSLR and F31fd][1]
 
-[Olympus&#8217; E-1 followup on display at Photokina][2]
+[Olympus' E-1 followup on display at Photokina][2]
 
-[Kodak&#8217;s EasyShare Z710: 7.1 megapixels and 10x zoom][3]
+[Kodak's EasyShare Z710: 7.1 megapixels and 10x zoom][3]
 
-[Canon&#8217;s Media Storage M30 and M80 photo and video viewers][4]
+[Canon's Media Storage M30 and M80 photo and video viewers][4]
 
-[Norcent&#8217;s DC-10 &#8212; 10 megapixels on the cheap][5]
+[Norcent's DC-10 &#8212; 10 megapixels on the cheap][5]
 
 bk_keywords:photography
 

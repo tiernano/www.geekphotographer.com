@@ -17,6 +17,6 @@ Adobe has released an [update to Camera RAW For CS4][1]. this is just in time fo
   * Panasonic DMC-FZ28
   * Panasonic DMC-LX3
   * Leica D-LUX 4
-I am hoping to get my hands on a 5D MK II before I go to New York on the 6th Dec, but with the way things are going, its looking less and less likley&#8230; <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
+I am hoping to get my hands on a 5D MK II before I go to New York on the 6th Dec, but with the way things are going, its looking less and less likley. <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_sad.gif" alt=":(" class="wp-smiley" />
 
  [1]: http://www.dpreview.com/news/0811/08112501adobecamerarawupdate5_2.asp

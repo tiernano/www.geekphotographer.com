@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Over the last while, i have been trying out Lightroom 3.0 beta as my main photography workflow. given i shoot RAW, and given the software is still beta, i use LightRoom&#8217;s &#8220;Write changes to XMP Side car&#8221; option. this way, if anything goes wrong, i still have my originals, and i just need to remove the side cars&#8230;
+Over the last while, i have been trying out Lightroom 3.0 beta as my main photography workflow. given i shoot RAW, and given the software is still beta, i use LightRoom's &#8220;Write changes to XMP Side car&#8221; option. this way, if anything goes wrong, i still have my originals, and i just need to remove the side cars.
 
 Anyway, [BETA 2 has been released][1], and due to the fact i am actually writing this from my Hospital bed, i wont be playing with it for a few days (check out my [Twitter feed][2] if your actually interested). from the AdobeLabs website, here are the new features:
 
@@ -48,7 +48,7 @@ Lightroom 3 beta 2 builds on the enhancements introduced in the first Lightroom 
   </li>
 </ul>
 
-Things i am interested in is the Performance (nothing can be fast enough!), import improvments and the Teathered Shooting&#8230; this is a very handy feature. So, if your interested, go check it out. but be warned&#8230; BETA = not production. i am a trained profesional and one day i will regret running BETA in production&#8230;
+Things i am interested in is the Performance (nothing can be fast enough!), import improvments and the Teathered Shooting. this is a very handy feature. So, if your interested, go check it out. but be warned. BETA = not production. i am a trained profesional and one day i will regret running BETA in production.
 
  [1]: http://labs.adobe.com/technologies/lightroom3/
  [2]: http://twitter.com/tiernano

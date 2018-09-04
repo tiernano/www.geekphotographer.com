@@ -16,9 +16,9 @@ categories:
 ---
 Both Kodak and Olympus have some new cameras today. 
 
-[Olympus&#8217;s EVOLT E-510 and E410 live LCD DSLRs][1]
+[Olympus's EVOLT E-510 and E410 live LCD DSLRs][1]
 
-[Olympus&#8217;s Stylus 780][2]
+[Olympus's Stylus 780][2]
 
 [Kodak Easyshare V803 reviewed][3]
 

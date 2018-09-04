@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-check out [this site with a couple of ebooks on photography][1]. one is on wedding photography, the other is an introduction for beginners. cool stuff!   
-bk_keywords:wedding photography,beginning phtography
+check out [this site with a couple of ebooks on photography][1]. one is on wedding photography, the other is an introduction for beginners. cool stuff!
 
  [1]: http://www.camerahobby.com/learning_modules.htm

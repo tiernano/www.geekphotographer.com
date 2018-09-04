@@ -12,6 +12,4 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Do you want to recieve updates to this blog via email? if so, just fill in the form below and your good to go! Dont worry, i wont spam you with junk, just very handy photography stuff! Good luck! <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> 
-
-bk_keywords:email, photography
+Do you want to recieve updates to this blog via email? if so, just fill in the form below and your good to go! Dont worry, i wont spam you with junk, just very handy photography stuff! Good luck! 

@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-I am not a big photoshop fan, as i probably said before, but there are some interesting photoshop tips i will share with you as time goes by. this is one of them. Check out [this turorial][1] showing you how to air brush your photos in photoshop. might be handy, some day.   
-bk_keywords:photoshop, air brush
+I am not a big photoshop fan, as i probably said before, but there are some interesting photoshop tips i will share with you as time goes by. this is one of them. Check out [this turorial][1] showing you how to air brush your photos in photoshop. might be handy, some day.
 
  [1]: http://photography-on-the.net/forum/showthread.php?t=171753

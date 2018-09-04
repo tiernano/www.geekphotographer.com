@@ -12,7 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-2 new cameras from Photokina today. First is the [Sigma SD14 DSLR][1], which is 14.1MP camera for about $1000. not too shabby. Next, we have the [Hasselblad H3D][2]. this is just mad. its a DSLR, and comes in both 22 and 39MP models! file sizes are up to 110mb per photo (which is about 80 photos on an 8Gb card, so you would want to carry a lot around) and will cost between $30 and $40k (depending on model). I think i will stick with my canon for a while&#8230;. [update] adding links&#8230; Doh!
+2 new cameras from Photokina today. First is the [Sigma SD14 DSLR][1], which is 14.1MP camera for about $1000. not too shabby. Next, we have the [Hasselblad H3D][2]. this is just mad. its a DSLR, and comes in both 22 and 39MP models! file sizes are up to 110mb per photo (which is about 80 photos on an 8Gb card, so you would want to carry a lot around) and will cost between $30 and $40k (depending on model). I think i will stick with my canon for a while.. [update] adding links. Doh!
 
 bk_keywords:Sigma, Hasselblad
 

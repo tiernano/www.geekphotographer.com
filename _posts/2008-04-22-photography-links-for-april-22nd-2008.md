@@ -16,7 +16,7 @@ Anandtech has an article explaing [how Digital Sensors work][3]. interesting rea
 
 I have posted some [photos of my camera bag contents][4]. Sounds a bit odd, but concidering it has a total of 3 cameras (Canon 350D, Canon 3000N (film) and a Kodak EasyShare camera, which i used to take the photos) and lenses, and other stuff, i though i would post it. I will do a write up on this soon, explaing all the stuff in here.
 
-Photocritic has a post with info about the [top 15 entry level DSLRs][5]. Pricing ranges from $450 to $1800&#8230;
+Photocritic has a post with info about the [top 15 entry level DSLRs][5]. Pricing ranges from $450 to $1800.
 
  [1]: http://www.thedigitalstory.com/blog/
  [2]: http://www.thedigitalstory.com/blog/2008/04/after_every_shoot_di.html

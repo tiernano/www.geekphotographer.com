@@ -12,7 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-here are some of the posts that are on my main blog that are photography related: 
+here are some of the posts that are on my main blog that are photography related:
 
 [The anandtech guide to better photos][1]
 
@@ -38,7 +38,7 @@ here are some of the posts that are on my main blog that are photography related
 
 [Adobe explains why no CS2 Universal binary][12]
 
-[Whats the difference between a $300 lens and a $2000 lens&#8230;.][13]
+[Whats the difference between a $300 lens and a $2000 lens..][13]
 
 [Why Microsoft employees should own a Mac][14]
 
@@ -64,7 +64,6 @@ here are some of the posts that are on my main blog that are photography related
 
 [Pro Event Preperation, photographer style][25]
 
-bk_keywords:nikon,adobe photoshop, canon, camera
 
  [1]: http://blog.lotas-smartman.net/archive/2005/01/25/10884.aspx
  [2]: http://blog.lotas-smartman.net/archive/2005/07/25/11909.aspx

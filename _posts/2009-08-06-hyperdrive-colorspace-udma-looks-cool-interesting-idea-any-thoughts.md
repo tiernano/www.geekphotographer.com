@@ -1,5 +1,5 @@
 ---
-title: 'HyperDrive ColorSpace UDMA: Looks cool, interesting idea&#8230; any thoughts?'
+title: 'HyperDrive ColorSpace UDMA: Looks cool, interesting idea. any thoughts?'
 author: tiernano
 layout: post
 permalink: /hyperdrive-colorspace-udma-looks-cool-interesting-idea-any-thoughts/

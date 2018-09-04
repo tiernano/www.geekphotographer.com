@@ -10,7 +10,7 @@ categories:
 ---
 So, 3 new cameras announced/released today, and i was going to do one large post, but though, what the heck. 3 would be better…
 
-First, The Nikon D300s for all you Nikonions out there&#8230;
+First, The Nikon D300s for all you Nikonions out there.
 
 ![Nikon D300s][1]
 

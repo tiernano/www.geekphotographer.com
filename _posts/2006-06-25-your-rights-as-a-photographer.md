@@ -12,8 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Check out [this article][1] explaining your rights as a photographer. very interesting stuff, and handy to know&#8230;
+Check out [this article][1] explaining your rights as a photographer. very interesting stuff, and handy to know.
 
-bk_keywords:photography
 
  [1]: http://www.photocritic.org/2006/photography-rights-vs-respect/

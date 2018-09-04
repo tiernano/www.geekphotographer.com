@@ -14,6 +14,5 @@ categories:
 ---
 OSXHints has [this tip showing you some advanced, hidden tools in iPhoto 6][1]. 
 
-bk_keywords:ilife 06, apple, iphoto
 
  [1]: http://www.macosxhints.com/article.php?story=20060504123458727

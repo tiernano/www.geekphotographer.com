@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Check out this tip on DIY Photography telling you how to keep your [digital sensor clean from dust][1], etc. Very handy tip!  
-bk_keywords:camera,dust,sensor,digital camera
+Check out this tip on DIY Photography telling you how to keep your [digital sensor clean from dust][1], etc. Very handy tip! 
 
  [1]: http://www.photocritic.org/2006/cleaning-sensor-digital-camera/

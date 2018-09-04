@@ -14,8 +14,7 @@ categories:
 ---
 *&#8220;Photography is the power of observation, not the application of technology.&#8221; Ken Rockwell. *
 
-[KenRockwell.com][1] has an interesting writeup on [how to make great photographs][2]. very interesting read.  
-bk_keywords:great photographs
+[KenRockwell.com][1] has an interesting writeup on [how to make great photographs][2]. very interesting read. 
 
  [1]: http://kenrockwell.com/
  [2]: http://kenrockwell.com/tech/howto.htm

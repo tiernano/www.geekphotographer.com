@@ -30,16 +30,16 @@ Hands-Off Comparison: Nikon D7000 And P7000 Vs. Canon 60D And G12 -<http://tcrn.
 
 [*Casio debuts Exilim EX-H20G (with Hybrid GPS) and EX-Z16 point-and-shoots*][8] [Via Engadget]
 
-[*Pentax K-5 brings 16.2MP sensor, &#8216;much faster&#8217; AF, and enhanced HDR to midrange DSLR party*][9] [Via Engadget]
+[*Pentax K-5 brings 16.2MP sensor, &#8216;much faster' AF, and enhanced HDR to midrange DSLR party*][9] [Via Engadget]
 
 [*Fujifilm intros FinePix X100: 12.3MP APS-C-based camera with Hybrid Viewfinder, loads of gorgeous*][10] [Via Engadget]   
 [Olympus teases Zuiko-equipped compact camera, leaves us desperate for details][11] [Via Engadget]
 
 [Samsung NX100 hands-on (video)][12] [Via Engadget]
 
-[Leica introduces M9 &#8216;Titanium,&#8217; limited to just 500 lucious pieces][13] [Via Engadget]
+[Leica introduces M9 &#8216;Titanium,' limited to just 500 lucious pieces][13] [Via Engadget]
 
-[Panasonic&#8217;s $900 Lumix GH2 officially debuts: 16MP, 1080p movie mode, 3D interchangeable lens][14] [Via Engadget]
+[Panasonic's $900 Lumix GH2 officially debuts: 16MP, 1080p movie mode, 3D interchangeable lens][14] [Via Engadget]
 
 [Leaf Aptus-II 12 snaps 80 megapixels of awesome on the back of your pro shooter][15] [Via Engadget]
 
@@ -47,13 +47,13 @@ Hands-Off Comparison: Nikon D7000 And P7000 Vs. Canon 60D And G12 -<http://tcrn.
 
 [Leica slaps D-Lux 5 badge on Panasonic LX5, hitches up the price][17] [Via Engadget]
 
-[Fujifilm&#8217;s FinePix X100 ships March 2011 for $1,000, we go hands-on][18] [Via Engadget]
+[Fujifilm's FinePix X100 ships March 2011 for $1,000, we go hands-on][18] [Via Engadget]
 
 [Leica V-Lux 2 looks like an FZ100, shoots like an FZ100, costs a lot more than an FZ100][19] [Via Engadget]
 
-[Sony reveals &#8216;color variation concept&#8217; models of NEX-5 and NEX-3 (eyes-on)][20] [Via Engadget]
+[Sony reveals &#8216;color variation concept' models of NEX-5 and NEX-3 (eyes-on)][20] [Via Engadget]
 
-[Sony &#8216;Advanced Model&#8217; (Alpha A77?) DSLR emerges at Photokina, E-mount firmware coming soon][21] [Via Engadget]
+[Sony &#8216;Advanced Model' (Alpha A77?) DSLR emerges at Photokina, E-mount firmware coming soon][21] [Via Engadget]
 
 [Hasselblad H4D-31 cuts the entry price for medium format excellence to $13k][22] [Via Engadget]
 

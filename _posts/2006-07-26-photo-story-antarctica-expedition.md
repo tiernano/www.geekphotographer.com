@@ -15,5 +15,3 @@ categories:
   - Uncategorized
 ---
 Check out this photoshop news photo story about a very cool (no pun intended) Antarctica Expedition. extreamly cool looking photos, interesting read, and some technical stuff too. Very cool!
-
-bk_keywords:Antarctica Expedition

@@ -12,9 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-[Adobe Lightroom][1], their answer to [Apple&#8217;s Aperture][2] has arrived today for Windows! Now to download and see if its any good&#8230;
-
-bk_keywords:adobe, apple aperture
+[Adobe Lightroom][1], their answer to [Apple's Aperture][2] has arrived today for Windows! Now to download and see if its any good.
 
  [1]: http://labs.adobe.com/technologies/lightroom/
  [2]: http://www.apple.com/aperture

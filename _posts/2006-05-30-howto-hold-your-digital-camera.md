@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-It might sound stupid, but check out this article on [how to hold your digital camera to avoid Camera Shake][1]. Very interesting guide and some good tips!  
-bk_keywords:camera, digital camera, photography
+It might sound stupid, but check out this article on [how to hold your digital camera to avoid Camera Shake][1]. Very interesting guide and some good tips! 
 
  [1]: http://digital-photography-school.com/blog/how-to-hold-a-digital-camera/

@@ -13,7 +13,7 @@ So, a couple of days ago on my other blog, i posted that my [Mac Pro, my main wo
 So, at the moment (or when my Mac Pro was working i should say) this was my workflow (roughly):
 
   * download photos to a particular directory using [Downloader Pro][2] (had some copyright settings in here as standard). the filename structure was <drive>:\Photos\<YYYYMMDD>\<YYMMDD>-<HHMMSS>-<ImportSerial> where ImportSerial was the number of the file (so, first file of the download was 1, and so on). the directory was on a RAID 1 array, and a copy process was set to copy to my [Windows Home Server][3] at the same time
-  * Open [LightRoom][4] and import the photos. I had one massive LightRoom Catalogue which was set to export metadata as it was written to XMP side cars. Keywords would usually get added on import… but sometimes they didn&#8217;t. i should do the keywords more often
+  * Open [LightRoom][4] and import the photos. I had one massive LightRoom Catalogue which was set to export metadata as it was written to XMP side cars. Keywords would usually get added on import… but sometimes they didn't. i should do the keywords more often
   * go through each photo and set ratings
   * do some work on photos that needed work
   * export the top photos

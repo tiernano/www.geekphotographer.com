@@ -10,19 +10,19 @@ categories:
 ---
 [<img class="alignnone size-full wp-image-451" src="http://www.geekphotographer.com/wp-content/uploads/2015/04/lightroomcc.jpg" alt="lightroomcc" width="640" height="460" />][1]
 
-Adobe have just released Lightroom 6, AKA Lightroom CC. If like me, you are on the [Photoshop and Lightroom $9.99 offer][2], this will be a free upgrade. Or, if your like a lot of people who are angry at Adobe, you can buy it outright&#8230; but either way, whats it get you?
+Adobe have just released Lightroom 6, AKA Lightroom CC. If like me, you are on the [Photoshop and Lightroom $9.99 offer][2], this will be a free upgrade. Or, if your like a lot of people who are angry at Adobe, you can buy it outright. but either way, whats it get you?
 
-Performance Upgrades: Lightroom CC now uses your GPU for processing some things&#8230; How much faster? up to 10x in some cases.
+Performance Upgrades: Lightroom CC now uses your GPU for processing some things. How much faster? up to 10x in some cases.
 
 HDR and Panorama merge: you can now merge images together into either Panoramas or HDR. the Panoramas end up as RAW images and you can do the same with the HDR too.
 
-Built in face recognition: Something i kind of miss from the Aperture days&#8230; Handy, i think&#8230;
+Built in face recognition: Something i kind of miss from the Aperture days. Handy, i think.
 
 I have to download this and try it out. Go forth, read and possibly download!
 
 There is some more info at the following pages:
 
-[Adobe&#8217;s own site][3]
+[Adobe's own site][3]
 
 [PetaPixel][4]
 

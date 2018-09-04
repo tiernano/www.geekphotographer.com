@@ -12,8 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Check out [Microsoft&#8217;s Icons of photography site][1], which shows some extreamly cool photos from some pro photographers, with info about them, and what they use. Very cool stuff! Also, the [Pro Photographer site][2] has some downloads, articles and more for pro photographers using Windows, and the [main photography site][3] has cool stuff too.  
-bk_keywords: photography, microsoft
+Check out [Microsoft's Icons of photography site][1], which shows some extreamly cool photos from some pro photographers, with info about them, and what they use. Very cool stuff! Also, the [Pro Photographer site][2] has some downloads, articles and more for pro photographers using Windows, and the [main photography site][3] has cool stuff too. 
 
  [1]: http://www.microsoft.com/windowsxp/using/digitalphotography/prophoto/icons/default.mspx
  [2]: http://www.microsoft.com/windowsxp/using/digitalphotography/prophoto/default.mspx

@@ -8,7 +8,7 @@ categories:
 - Adobe
 - software
 ---
-![](/uploads/2017/10/18/lightroom-cc.PNG)
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/lightroom-cc.PNG)
 
 I have been an Adobe Lightroom user for, well, many a year. I bought a few boxes and download editions (I still have a box of Lightroom 3 here on my desk!) and when CC and the "cloud" editions came out, i bought the Photography bundle, and have been using that since. Over the years, they have added many features, including mobile apps for iOS and Android, but performance on the desktop has, in some cases, suffered...
 

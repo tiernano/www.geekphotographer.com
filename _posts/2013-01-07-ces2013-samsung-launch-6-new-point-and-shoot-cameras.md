@@ -14,7 +14,7 @@ tags:
 ---
 <img title="wb250f003right-anglewhite-1357530727.jpg" src="http://geekphotographer.com/wp-content/uploads/2013/01/wb250f003right-anglewhite-1357530727.jpg" alt="Wb250f003right anglewhite 1357530727" width="300" height="227" border="0" />
 
-So, Samsung has announced 6 new point and shoot cameras at CES&#8230;
+So, Samsung has announced 6 new point and shoot cameras at CES.
 
   * the WB250F (pictured): 18X optical zoom, 14.2MP Backside Illumiated CMOS Sensor and 24mm lens
   * WB200F, same hardware, CCD sensor, not CMOS

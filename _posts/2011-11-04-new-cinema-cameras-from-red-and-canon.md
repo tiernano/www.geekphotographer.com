@@ -24,7 +24,7 @@ Canon has announced a new Cinema Camera, the C300, and it looks pretty damn cool
 
 [<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="canonc300leadpicdantetktk" border="0" alt="canonc300leadpicdantetktk" src="http://geekphotographer.com/wp-content/uploads/2011/11/canonc300leadpicdantetktk_thumb.jpg" width="644" height="394" />][3]
 
-It will take either a EF mount lens or a PL mount ([Engadget][1] mention “not both” but i don&#8217;t know if that means you buy one with either EF or PL mount…) The price? about $20,000… so, not my next video camera then… again, from the Engadget article, there is mention of 4k Resolutions support using new EF lenses, of which there are a few: 2 14.5 to 60mm, 2 30-300mms and a couple of primes too: 24, 50 and 85mm. Late January 2012 it will be available… 
+It will take either a EF mount lens or a PL mount ([Engadget][1] mention “not both” but i don't know if that means you buy one with either EF or PL mount…) The price? about $20,000… so, not my next video camera then… again, from the Engadget article, there is mention of 4k Resolutions support using new EF lenses, of which there are a few: 2 14.5 to 60mm, 2 30-300mms and a couple of primes too: 24, 50 and 85mm. Late January 2012 it will be available… 
 
 [<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="canonc300presspic-06" border="0" alt="canonc300presspic-06" src="http://geekphotographer.com/wp-content/uploads/2011/11/canonc300presspic-06_thumb.jpg" width="644" height="430" />][4]
 
@@ -42,7 +42,7 @@ Also…
 
 [<img style="background-image: none; border-bottom: 0px; border-left: 0px; padding-left: 0px; padding-right: 0px; display: inline; border-top: 0px; border-right: 0px; padding-top: 0px" title="2011-11-03-postdsc03279" border="0" alt="2011-11-03-postdsc03279" src="http://geekphotographer.com/wp-content/uploads/2011/11/2011-11-03-postdsc03279_thumb.jpg" width="644" height="431" />][8]
 
-If i am looking at this correct, this may come in at the same kind of level of the 1Dx or maybe between it and the 5D MK II. Its a DSLR, that can shoot 4k video with a full frame sensor. Looks like a 1D style body, so don&#8217;t think this will be in at 5D MKII levels, but i could be wrong. 
+If i am looking at this correct, this may come in at the same kind of level of the 1Dx or maybe between it and the 5D MK II. Its a DSLR, that can shoot 4k video with a full frame sensor. Looks like a 1D style body, so don't think this will be in at 5D MKII levels, but i could be wrong. 
 
 [[RED makes the Scarlet Official: 5K Still photos, 4k Video – $9750 – Engadget][9]]
 

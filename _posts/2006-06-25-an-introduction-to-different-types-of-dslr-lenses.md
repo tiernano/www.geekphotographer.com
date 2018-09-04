@@ -12,7 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Check out this article over that the Digital Photography School [introducing the different types of DSLR lenses][1]. Handy article with some interesting info.   
-bk_keywords:DSLR, lens
+Check out this article over that the Digital Photography School [introducing the different types of DSLR lenses][1]. Handy article with some interesting info.
 
  [1]: http://digital-photography-school.com/blog/an-introduction-to-types-of-dlsr-lenses/

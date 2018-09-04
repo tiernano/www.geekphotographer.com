@@ -41,7 +41,7 @@ Last, but defiantly not least, Sony
 
 [Sony Handycam TD30V delivers premium feel, 3D shooting for less than a grand (hands-on) ][8]
 
-[Sony&#8217;s ruggedized Cyber-shot TF1 hits this month for $199, we go hands-on][9]
+[Sony's ruggedized Cyber-shot TF1 hits this month for $199, we go hands-on][9]
 
 [Sony introduces Balanced Optical SteadyShot for well under a grand with CX430V, PJ430V Handycams (hands-on)][10]
 

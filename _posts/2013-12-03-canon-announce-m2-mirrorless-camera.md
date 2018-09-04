@@ -12,7 +12,7 @@ categories:
 ---
 ![][1] 
 
-Canon has announced the new EOS M2. It seems that&#8217;s there is not a major change between the M and the M2, other than it including Wifi, and speed up the autofocus by 2.3 times, everything else seems to be the same… Engadget has a bit more info [on their site][2], including pricing ($820 ish with a kit lens, $627 without) and availability (December some time). 
+Canon has announced the new EOS M2. It seems that's there is not a major change between the M and the M2, other than it including Wifi, and speed up the autofocus by 2.3 times, everything else seems to be the same… Engadget has a bit more info [on their site][2], including pricing ($820 ish with a kit lens, $627 without) and availability (December some time). 
 
 [Via [Engadget][2]]
 

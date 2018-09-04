@@ -12,9 +12,8 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Good morning. I have moved this blog to a new server, and i have registered a new domain name too! [tiernanotoolephotography.com/blog][1] will get you to the blog site, and just a [tiernanotoolephotography.com][2] will get you to the main site, of which there is nothing yet, but i will be posting stuff soon. Keep your eyes pealed (or how ever your meant to spell that&#8230;)
+Good morning. I have moved this blog to a new server, and i have registered a new domain name too! [tiernanotoolephotography.com/blog][1] will get you to the blog site, and just a [tiernanotoolephotography.com][2] will get you to the main site, of which there is nothing yet, but i will be posting stuff soon. Keep your eyes pealed (or how ever your meant to spell that.)
 
-bk_keywords:camera
 
  [1]: http://www.tiernanotoolephotography.com/blog
  [2]: http://www.tiernanotoolephotography.com/

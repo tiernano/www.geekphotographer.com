@@ -16,6 +16,5 @@ categories:
 ---
 check out [this article over at pixalo.com][1] about the day in the life of a pro photographer. interesting read.
 
-bk_keywords:photographer
 
  [1]: http://www.pixalo.com/articles/Day-in-the-life-of-a-professional.php

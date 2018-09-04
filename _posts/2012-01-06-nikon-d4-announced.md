@@ -15,7 +15,7 @@ tags:
 ---
 [<img class="alignnone size-medium wp-image-315" title="2012-05-05-d4501" src="http://geekphotographer.com/wp-content/uploads/2012/01/2012-05-05-d4501-279x300.jpg" alt="" width="279" height="300" />][1]
 
-Nikon has just annonced their new Full Frame DSLR, the [Nikon D4][2]. Its a 16MP camera, which now supports an ISO of 204,800, shoots at 10FPS, and can shoot video at 1080P at 30FPS. It supports both UDMA-7 Cards and the new [XQD format][3] at upto 125MB/s. It will set you back about 6k&#8230;
+Nikon has just annonced their new Full Frame DSLR, the [Nikon D4][2]. Its a 16MP camera, which now supports an ISO of 204,800, shoots at 10FPS, and can shoot video at 1080P at 30FPS. It supports both UDMA-7 Cards and the new [XQD format][3] at upto 125MB/s. It will set you back about 6k.
 
  [1]: http://geekphotographer.com/wp-content/uploads/2012/01/2012-05-05-d4501.jpg
  [2]: http://www.engadget.com/2012/01/05/nikon-d4-dslr-camera/

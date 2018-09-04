@@ -24,7 +24,7 @@ D3
                           * 6fps, up to 8fps with power grip (no HSC mode) 
                               * ISO 200 &#8211; 3200 with LO (ISO 100 equivalent), H1 (ISO 6400) 
                                   * 51 point autofocus system (15 cross sensor) </ul> 
-                                12MP is a bit low for the high end (the [1Ds Mark III][2] is now nearly double at 21), but 9FPS is good&#8230; [update] [Its Official][3]
+                                12MP is a bit low for the high end (the [1Ds Mark III][2] is now nearly double at 21), but 9FPS is good. [update] [Its Official][3]
 
  [1]: http://tiernanotoolephotography.com/blog/2007/07/18/canon-40d/
  [2]: http://tiernanotoolephotography.com/blog/2007/08/20/1ds-mark-iii-and-40d-now-official/

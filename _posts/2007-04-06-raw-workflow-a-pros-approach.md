@@ -14,7 +14,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Check out this [Digital photography school article][1] explaining a Pro&#8217;s Approach to a RAW Workflow. I have to fine tune my RAW workflow at the moment, as i am having problems (like my Aperture library taking up roughly 30Gb, and i dont even know of what!) so once i do, i will have my workflow listed here, but lets give a high level overview: Camera -> Aperture -> external backup -> top rated go to my [SmugMug page][2].
+Check out this [Digital photography school article][1] explaining a Pro's Approach to a RAW Workflow. I have to fine tune my RAW workflow at the moment, as i am having problems (like my Aperture library taking up roughly 30Gb, and i dont even know of what!) so once i do, i will have my workflow listed here, but lets give a high level overview: Camera -> Aperture -> external backup -> top rated go to my [SmugMug page][2].
 
  [1]: http://digital-photography-school.com/blog/raw-workflow-a-pros-approach/
  [2]: http://tiernanotoole.smugmug.com

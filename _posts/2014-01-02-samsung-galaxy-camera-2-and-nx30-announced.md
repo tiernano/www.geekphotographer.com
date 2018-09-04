@@ -16,7 +16,7 @@ Today Samsung have announced 2 new cameras. First, an updated version of my own 
 
 As for the NX30, its an upgraded NX20. 20.1MP, upgraded image quality and display, more light sensitive sensor. More details about both available from [Engadget here][3].
 
-[Updated: the previous version mentioned that the old Galaxy Camera had a dual core processor. Its actually got a Quad core&#8230; also, [Ars Technica has a post][4] with a bit more details. The NX30 also comes prepackaged with a copy of [Adobe Lightroom][5], which is a nice bonus]
+[Updated: the previous version mentioned that the old Galaxy Camera had a dual core processor. Its actually got a Quad core. also, [Ars Technica has a post][4] with a bit more details. The NX30 also comes prepackaged with a copy of [Adobe Lightroom][5], which is a nice bonus]
 
  [1]: http://www.geekphotographer.com/wp-content/uploads/2014/01/samsung-nx30-and-galaxy-camera-2.jpg
  [2]: http://www.geekphotographer.com/samsung-and-nikon-announce-android-powered-cameras/

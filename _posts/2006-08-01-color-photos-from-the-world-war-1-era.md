@@ -17,7 +17,7 @@ categories:
 [check out this &#8220;Damn Instesting&#8221; article][1] about a photography who, in 1909 was taking color photos.
 
 *Color film was non-existent in 1909 Russia, yet in that year a photographer named Sergei Mikhailovich Prokudin-Gorskii embarked on a photographic survey of his homeland and captured hundreds of photos in full, vivid color. His photographic plates were black and white, but he had developed an ingenious photographic technique which allowed him to use them to produce accurate color images.*  
-Some very cool looking photos, pity they arent bigger though&#8230;
+Some very cool looking photos, pity they arent bigger though.
 
 bk_keywords:color photos, world war 1
 

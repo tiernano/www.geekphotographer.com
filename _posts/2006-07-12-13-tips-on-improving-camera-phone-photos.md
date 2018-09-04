@@ -16,6 +16,4 @@ categories:
 ---
 Digital photography school has an article with 13 tips on [improving your camera phone pictures][1]. very cool stuff
 
-bk_keywords:nokia, camera phone
-
- [1]: http://digital-photography-school.com/blog/how-to-use-a-camera-phone/
+[1]: http://digital-photography-school.com/blog/how-to-use-a-camera-phone/

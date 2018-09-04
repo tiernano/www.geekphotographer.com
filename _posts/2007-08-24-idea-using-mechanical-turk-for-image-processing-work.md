@@ -18,7 +18,7 @@ I shoot all my photos in RAW, and some of these require work to get them to perf
 
   * Requester&nbsp;sends the RAW image to the service (use S3 for the storage say) and each HIT include the link to RAW image, and a place to upload the completed work. places a price on each image of, say, 25c or 50c. 
       * Turkers take the RAW image, process it, tweak it, take the XMP (sidecar) and the RAW image, aswell as the processed JPEG and upload to the server, telling the requester it is completed. 
-          * Requester&nbsp;QA&#8217;s the work and then&nbsp;pays, if they are happy.</ul> 
+          * Requester&nbsp;QA's the work and then&nbsp;pays, if they are happy.</ul> 
         This all sounds well and good, and there is a mechanism to get it to work, but what does anyone else think?
         
         <div class="wlWriterSmartContent" id="0767317B-992E-4b12-91E0-4F059A8CECA8:28ce1fcf-ec1a-45b4-aceb-6cc0f0bee789" contenteditable="false" style="padding-right: 0px; display: inline; padding-left: 0px; padding-bottom: 0px; margin: 0px; padding-top: 0px">

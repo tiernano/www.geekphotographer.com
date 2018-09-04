@@ -16,6 +16,5 @@ categories:
 ---
 [this article over at OutBackPhoto.com][1] shows you how to fake the blur of depth of field in your photos. interesting tip. i have taken photos, and though they looked good on the screen of my camera, but found out that they where not as good as hoped when i got them home. mind you, after some experimenting, i have gotten it working, kind of, but handy tip none the less.
 
-bk_keywords:photoshop, 350d
 
  [1]: http://www.outbackphoto.com/workflow/wf_51/essay.html

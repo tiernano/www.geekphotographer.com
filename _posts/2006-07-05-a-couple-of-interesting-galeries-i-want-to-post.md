@@ -12,12 +12,11 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-I am still working on my photography galeries, which will hopefully be live soon, but until then, check out these galeries: 
+I am still working on my photography galeries, which will hopefully be live soon, but until then, check out these galeries:
 
-[Jeffery Klassen&#8217;s Infrared galery][1]  
+[Jeffery Klassen's Infrared galery][1]  
 [H20 studies on Flickr][2]
 
-bk_keywords:photography, galeries
 
  [1]: http://www.pbase.com/jeffreyk/infrared
  [2]: http://www.flickr.com/photos/alternate/sets/199123/

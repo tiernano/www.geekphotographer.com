@@ -12,7 +12,7 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-TUAW (the unofficial apple weblog) has some coverage of the Apple [Photkia event][1]. Aperture 1.5 released, more info comming&#8230;. [update] Well, more info about [1.5 is out][2], but we wont get our hands on it till &#8220;Later in the week&#8221; when ever that will be. Also, of note, Aperture will now work on a [Mac Mini][3] and a [Mac Book][4]. This is interesting, because originally you needed a minimum of a [iMac][5] because of the graphics card. now, pretty much anything will run Aperture! One issue: I have just ordered my [Mac Pro][6] with a gig of RAM, but the minimum RAM for a Mac Pro is now set at 2Gb! I will need to get the extra ram for it sooner rather then later&#8230; 
+TUAW (the unofficial apple weblog) has some coverage of the Apple [Photkia event][1]. Aperture 1.5 released, more info comming.. [update] Well, more info about [1.5 is out][2], but we wont get our hands on it till &#8220;Later in the week&#8221; when ever that will be. Also, of note, Aperture will now work on a [Mac Mini][3] and a [Mac Book][4]. This is interesting, because originally you needed a minimum of a [iMac][5] because of the graphics card. now, pretty much anything will run Aperture! One issue: I have just ordered my [Mac Pro][6] with a gig of RAM, but the minimum RAM for a Mac Pro is now set at 2Gb! I will need to get the extra ram for it sooner rather then later. 
 
 bk_keywords:Apple
 

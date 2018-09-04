@@ -14,12 +14,12 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[ Hands-on with Panasonic&#8217;s SDR-S10 camcorder][1]  
+[ Hands-on with Panasonic's SDR-S10 camcorder][1]  
 [BetterLight intros 416-megapixel digital camera back][2]  
-[Hands-on with Panasonic&#8217;s line FX12, FX30, FZ8, LS70, LZ7, and TZ3][3]  
-[Hands-on with Pentax&#8217;s A30, M30, T30, and W30][4]  
+[Hands-on with Panasonic's line FX12, FX30, FZ8, LS70, LZ7, and TZ3][3]  
+[Hands-on with Pentax's A30, M30, T30, and W30][4]  
 [Agfa joins the PMA action, unveils DC-630i point-and-shoot][5]  
-[Checking out GE&#8217;s new digital cameras][6]
+[Checking out GE's new digital cameras][6]
 
 bk_keywords:camera
 

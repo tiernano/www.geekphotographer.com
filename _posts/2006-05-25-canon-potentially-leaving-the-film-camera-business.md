@@ -12,8 +12,6 @@ blogger_permalink:
 categories:
   - Uncategorized
 ---
-Just read on [Engadget that canon could be leaving the film camera business][1]. I wonder if this will happen. I know some people who say that Film is better than Digital. Personally, I prefer digital, just for the workflow, and the ease of use, etc. it will be a weird day if it happens&#8230; 
-
-bk_keywords:Canon SLR, canon DLSR
+Just read on [Engadget that canon could be leaving the film camera business][1]. I wonder if this will happen. I know some people who say that Film is better than Digital. Personally, I prefer digital, just for the workflow, and the ease of use, etc. it will be a weird day if it happens.
 
  [1]: http://www.engadget.com/2006/05/25/canon-may-quit-film-camera-business/

@@ -8,7 +8,7 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-PhotographyBlog.com has a review of the Nikon D300. This is a very nice looking camera. from what I can gather, its in the same league as the [40D][1] and [30D][2] Canons, but I have been known to be wrong. leave a comment if I am! Anyway, the review is taking a bit of time to load on my end, but check it out, unless the server is dead. Nice camera, looks good, but i am a Canon man&#8230; <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
+PhotographyBlog.com has a review of the Nikon D300. This is a very nice looking camera. from what I can gather, its in the same league as the [40D][1] and [30D][2] Canons, but I have been known to be wrong. leave a comment if I am! Anyway, the review is taking a bit of time to load on my end, but check it out, unless the server is dead. Nice camera, looks good, but i am a Canon man. <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" />
 
 ![][3]
 

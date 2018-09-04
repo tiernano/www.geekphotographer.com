@@ -14,7 +14,7 @@ tags:
   - f-stoppers
   - iPad
 ---
-A while back, F-Stoppers posted a video showing you [how to Teather your Camera to your iPad][1], but it required a JailBreak of the iPad&#8230; Something i wanted to try but never got around to&#8230; Well, they have just released a new video which shows you [how to do it without Jail Breaking the iPad][2], thanks to a new Firmware update for the [Eye-Fi][3].
+A while back, F-Stoppers posted a video showing you [how to Teather your Camera to your iPad][1], but it required a JailBreak of the iPad. Something i wanted to try but never got around to. Well, they have just released a new video which shows you [how to do it without Jail Breaking the iPad][2], thanks to a new Firmware update for the [Eye-Fi][3].
 
  [1]: http://fstoppers.com/ipad
  [2]: fstoppers.com/how-to-tether-your-camera-to-an-ipad-without-jailbreaking

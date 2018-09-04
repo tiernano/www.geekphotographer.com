@@ -14,6 +14,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-[update] removing from my photography site, as it was to be posted on my techy geeky site&#8230; <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Original [post here][1].
+[update] removing from my photography site, as it was to be posted on my techy geeky site. <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> Original [post here][1].
 
  [1]: http://blog.lotas-smartman.net/archive/2007/02/16/rebuilding-the-photography-site-with-sqs-serialization-and-more.aspx

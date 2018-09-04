@@ -8,6 +8,6 @@ dsq_thread_id:
 categories:
   - Uncategorized
 ---
-Check out this tutorial over at Digital photography School showing you [how to do time lapse video with a DSLR][1]. it is definatly something i need to try out&#8230; it just looks so cool! <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> now all i need is a subject&#8230;
+Check out this tutorial over at Digital photography School showing you [how to do time lapse video with a DSLR][1]. it is definatly something i need to try out. it just looks so cool! <img src="http://www.geekphotographer.com/wp-includes/images/smilies/icon_smile.gif" alt=":)" class="wp-smiley" /> now all i need is a subject.
 
  [1]: http://digital-photography-school.com/blog/how-to-make-a-time-lapse-video-with-your-dslr/

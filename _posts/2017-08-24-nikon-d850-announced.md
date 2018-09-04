@@ -9,7 +9,7 @@ categories:
 - camera
 - announcements
 ---
-![](/uploads/2017/08/24/nikond850feat-1.jpg)
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/nikond850feat-1.jpg)
 
 So, as you probably know, i am a Canon Guy... I have had a good few since i started shooting, and well, i am happy with them. My main shooter is currently a 5Ds, and i have a [5D MK II](https://www.geekphotographer.com/5d-mkii-review-round-up/) as a backup and a plan of possibly getting a [5D MK IV](https://www.geekphotographer.com/Canon5DMKIV/) soon... Anyway, that being said, Nikon have announced their latest camera, the D850, and, well, after reading the sepecs, it sounds interesting...
 
