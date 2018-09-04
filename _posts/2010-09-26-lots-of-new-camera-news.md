@@ -32,7 +32,8 @@ Hands-Off Comparison: Nikon D7000 And P7000 Vs. Canon 60D And G12 -<http://tcrn.
 
 [*Pentax K-5 brings 16.2MP sensor, &#8216;much faster' AF, and enhanced HDR to midrange DSLR party*][9] [Via Engadget]
 
-[*Fujifilm intros FinePix X100: 12.3MP APS-C-based camera with Hybrid Viewfinder, loads of gorgeous*][10] [Via Engadget]   
+[*Fujifilm intros FinePix X100: 12.3MP APS-C-based camera with Hybrid Viewfinder, loads of gorgeous*][10] [Via Engadget]
+
 [Olympus teases Zuiko-equipped compact camera, leaves us desperate for details][11] [Via Engadget]
 
 [Samsung NX100 hands-on (video)][12] [Via Engadget]

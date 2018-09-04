@@ -15,7 +15,7 @@ tags:
 ---
 Lots of CES stuff today, but studying for an exam in the morning, so this will mainly be links… First, Olympus
 
-<img title="olympus-sh-50.jpg" src="http://geekphotographer.com/wp-content/uploads/2013/01/olympus-sh-501.jpg" alt="Olympus sh 50" width="300" height="176" border="0" />
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/olympus-sh-501.jpg)
 
 [Olympus SH-50 iHS touts 5-axis video stabilization in a compact, $300 camera (update: hands-on pics)][1] (pictured)
 
@@ -23,7 +23,7 @@ Lots of CES stuff today, but studying for an exam in the morning, so this will m
 
 [Olympus intros upgraded Stylus Tough TG-2, TG-830 and TG-630 rugged cameras][3]
 
-<img title="nikon-j3.jpg" src="http://geekphotographer.com/wp-content/uploads/2013/01/nikon-j3.jpg" alt="Nikon j3" width="300" height="244" border="0" />
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/nikon-j3.jpg)
 
 Next, Nikon:
 
@@ -33,13 +33,13 @@ Next, Nikon:
 
 [Nikon outs Coolpix S6500 with WiFi, new beauty touch-ups (update: hands-on photos)][6]
 
-<img title="lead-sonypj650.jpg" src="http://geekphotographer.com/wp-content/uploads/2013/01/lead-sonypj650.jpg" alt="Lead sonypj650" width="300" height="199" border="0" />
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/lead-sonypj650.jpg)
 
 Last, but defiantly not least, Sony
 
 [Sony Handycam PJ790V and PJ650V get brighter projectors with HDMI input, we go hands-on][7] (pictured)
 
-[Sony Handycam TD30V delivers premium feel, 3D shooting for less than a grand (hands-on) ][8]
+[Sony Handycam TD30V delivers premium feel, 3D shooting for less than a grand (hands-on)][8]
 
 [Sony's ruggedized Cyber-shot TF1 hits this month for $199, we go hands-on][9]
 
@@ -55,7 +55,7 @@ Last, but defiantly not least, Sony
 
 [Sony Handycam CX380 and PJ380 offer boosted specs with less heft, we go hands-on][15]
 
-I did say there was a LOT! 
+I did say there was a LOT!
 
  [1]: http://www.engadget.com/2013/01/07/olympus-sh-50-ihs-touts-5-axis-video-stabilization/
  [2]: http://www.engadget.com/2013/01/07/olympus-reveals-sz-15-sz-16-superzoom-cameras/

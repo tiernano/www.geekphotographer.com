@@ -12,12 +12,12 @@ Over the last while, i have been trying out Lightroom 3.0 beta as my main photog
 
 Anyway, [BETA 2 has been released][1], and due to the fact i am actually writing this from my Hospital bed, i wont be playing with it for a few days (check out my [Twitter feed][2] if your actually interested). from the AdobeLabs website, here are the new features:
 
-  * **Improved performance throughout the application** for faster importing and loading of images
-  * **Native tethered shooting support** for select Nikon and Canon DSLR cameras
-  * **Luminance noise reduction** has been added to the previous color noise reduction improvements available in the first public beta for outstanding overall high ISO quality
-  * **Support for importing and managing video files** from DSLR cameras for better overall photographic workflow control
-  * **Improvements to the import experience** in the first beta to reflect public feedback
-  * **Improved watermarking functionality** from the first beta to reflect public feedback
+* **Improved performance throughout the application** for faster importing and loading of images
+* **Native tethered shooting support** for select Nikon and Canon DSLR cameras
+* **Luminance noise reduction** has been added to the previous color noise reduction improvements available in the first public beta for outstanding overall high ISO quality
+* **Support for importing and managing video files** from DSLR cameras for better overall photographic workflow control
+* **Improvements to the import experience** in the first beta to reflect public feedback
+* **Improved watermarking functionality** from the first beta to reflect public feedback
 
 Lightroom 3 beta 2 builds on the enhancements introduced in the first Lightroom 3 beta release:
 

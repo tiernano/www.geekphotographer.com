@@ -11,7 +11,8 @@ categories:
   - DSLR
   - Prosumer
 ---
-[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="canon5dsdsrlead" src="http://www.geekphotographer.com/wp-content/uploads/2015/02/canon5dsdsrlead_thumb.jpg" alt="canon5dsdsrlead" width="705" height="434" border="0" />][1]
+
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/canon5dsdsrlead_thumb.jpg)
 
 A couple of big announcements in Canon land today! First, we have the 2 monsters announced above: Ladies and Gentlemen, you are looking at the new Canon 5Ds and 5Ds R. These each have 50.6MP sensors, Dual DIGIC 6 image processors, 61 point auto focus and a built in time lapse feature. They also shoot at 5 FPS.
 
@@ -19,20 +20,13 @@ They also feature something called Active NFC, a wifi connection, USB 3 (which i
 
 Based on the Engadget article, the only thing different between the 2 (the R is the higher end one) is the price ($3700 VS $3900 for the R) and the R eliminates the “Low pass filter effect”. [More details available over on Engadget][2].
 
-&nbsp;
-
-[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="canonnew1124lead" src="http://www.geekphotographer.com/wp-content/uploads/2015/02/canonnew1124lead_thumb.jpg" alt="canonnew1124lead" width="565" height="364" border="0" />][3]
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/canonnew1124lead_thumb.jpg)
 
 Also, at the same time, they also announed the lense above, the 11-24mm F4 USM. 126 degree angle of view on this thing! Mind you, it will probably cost about 3 grand…
 
-&nbsp;
-
-[<img style="background-image: none; padding-top: 0px; padding-left: 0px; display: inline; padding-right: 0px; border: 0px;" title="canon-rebel-t6s-top" src="http://www.geekphotographer.com/wp-content/uploads/2015/02/canon-rebel-t6s-top_thumb.jpg" alt="canon-rebel-t6s-top" width="579" height="369" border="0" />][4]
+![](canon-rebel-t6s-top_thumb.jpg)
 
 Also announced is the Rebel T6s and T6i. 24Mp, Single DIGIC 6 processor, Wifi and NFC. $750 gets you a Ti, $850 gets you a Ts. [More details on Engadget here][5].
 
- [1]: http://www.geekphotographer.com/wp-content/uploads/2015/02/canon5dsdsrlead.jpg
  [2]: http://www.engadget.com/2015/02/05/canon-5ds-5dsr/
- [3]: http://www.geekphotographer.com/wp-content/uploads/2015/02/canonnew1124lead.jpg
- [4]: http://www.geekphotographer.com/wp-content/uploads/2015/02/canon-rebel-t6s-top.jpg
  [5]: http://www.engadget.com/2015/02/05/canons-rebel-t6s-and-t6i/?ncid=rss_truncated&utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+weblogsinc%2Fengadget+%28Engadget%29

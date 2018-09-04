@@ -16,5 +16,5 @@ Canon has announced the new EOS M2. It seems that's there is not a major change 
 
 [Via [Engadget][2]]
 
- [1]: http://www.geekphotographer.com/wp-content/uploads/2013/12/120313_0926_Canonannoun1.jpg
+ [1]: https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/120313_0926_Canonannoun1.jpg
  [2]: http://www.engadget.com/2013/12/03/canon-eos-m2-mirrorless-camera/?ncid=rss_truncated

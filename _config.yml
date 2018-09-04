@@ -27,5 +27,5 @@ social:
    email: tiernan@tiernanotoole.ie
 
 google_analytics: "UA-220614-3"
-gems: 
+plugins: 
   -  jekyll-paginate

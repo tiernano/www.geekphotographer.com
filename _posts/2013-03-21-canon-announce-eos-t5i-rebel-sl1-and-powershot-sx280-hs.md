@@ -17,7 +17,7 @@ tags:
   - SX280HS
   - T5i
 ---
-[<img class="alignnone size-medium wp-image-375" alt="canondsc06955" src="http://www.geekphotographer.com/wp-content/uploads/2013/03/canondsc069551-300x199.jpg" width="300" height="199" />][1]
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/canondsc069551-300x199.jpg)
 
 Today, Cannon has announced a couple of new cameras. Well, 3.  first are the 2 above. One is the EOS T5i (the larger of the 2) and the other is the Rebel SL1. So, we start with the SL1.
 
@@ -25,7 +25,7 @@ The SL1 is small. the SL stands for Super LightWeight, only weighing just under 
 
 The next camera is the T5i, but based on what Engadget say, its nearly identical to the T4i, expect now has the option of the 18-55mm lens in a kit and has minor body changes. Speaking of Engadget, the photos come from them. Thanks! [[Canon unveils EOS T5i and Rebel SL1, the world's smallest DSLR (hands-on)][1] (via Engadget)]
 
-[<img class="alignnone size-medium wp-image-377" alt="canondsc07081" src="http://www.geekphotographer.com/wp-content/uploads/2013/03/canondsc07081-300x199.jpg" width="300" height="199" />][2]
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/canondsc07081-300x199.jpg)
 
 Next is the PowerShot SX280 HS. This is a nice little Point and Shoot camera, small enough to fit in your pocket. Includes a 20X Optical Zoom at 25-500mm f/3.5-6.8. 12.1-megapixel CMOS sensor, built-in WiFi, a DIGIC 6 processor, 1080/30p and 60p video,ISO 80-6400 and 14 fps Burst shooting, but limited to 7 shots. Odd. Anyway, $330 when it comes out in April.  
 [[Canon announces PowerShot SX280 HS with WiFi, ISO 6400 and 20x lens, we go hands-on][3] Via Engadget]

@@ -10,7 +10,7 @@ dsq_needs_sync:
 categories:
   - cameras
 ---
-[<img class="alignnone size-medium wp-image-421" alt="samsung-nx30-and-galaxy-camera-2" src="http://www.geekphotographer.com/wp-content/uploads/2014/01/samsung-nx30-and-galaxy-camera-2-300x163.jpg" width="300" height="163" />][1]
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/samsung-nx30-and-galaxy-camera-2-300x163.jpg)
 
 Today Samsung have announced 2 new cameras. First, an updated version of my own [Samsung Galaxy Camera][2], the Galaxy Camera 2. Comes with a faster processor than before (Quad core 1.6Gz VS a Quad core 1.4Gz in the old one) 2x more memory (2Gb vs 1Gb) 0.2 more Androids (4.3 VS 4.1) more power (2,000mAh) and it can now shoot at 120FPS video! Thats pretty impressive! I think i want one!
 

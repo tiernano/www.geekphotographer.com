@@ -15,7 +15,7 @@ First, the lenses. One above is a Canon 24-105 F4 ii, an update to one of the le
 
 ![Canon EF 16-35mm f/2.8L III USM](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-1635mm.jpg "Canon EF 16-35mm f/2.8L III USM")
 
-next is the Canon EF 16-35mm f/2.8L III USM. It now features a large diameter GMO dual-surface aspherical lens, and some performance tweaks. also available October for $2200 ([BH Link][2]). 
+next is the Canon EF 16-35mm f/2.8L III USM. It now features a large diameter GMO dual-surface aspherical lens, and some performance tweaks. also available October for $2200 ([BH Link][2]).
 
 ![Canon W-E1](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160825-we1.jpg "Canon W-E1")
 

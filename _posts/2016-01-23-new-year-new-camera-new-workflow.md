@@ -8,12 +8,11 @@ categories:
 date: 2016-01-23 00:00:00 +0000
 ---
 
-
 Happy New Year! Its been a while, but hopefully this is the first of many new posts... To start, this post is a quick overvew of my new (planned, but not fully "production" tested) workflow. And the reason for it...
 
 As the title says, there is a new camera i am using. I pulled the trigger and bought a [Canon 5DS](http://www.geekphotographer.com/canon-announce-5ds-and-5ds-r-with-50mp-sensors-and-some-other-stuff/) after selling my [6D](http://www.geekphotographer.com/canon-announce-eos-6d-dslr-and-3-new-powershots/). Its a pretty impressive peice of kit. 50MP resolution, with the option of shooting cropped at 1.3 or 1.6. When shooting cropped, the images are about 30ish MP at 1.3 and 20ish at 1.6. but it does, techincally, increese the zoom... so, shooing on a 100mm lense, at 1.3 its 130, and at 1.6 its 160... havent used that yet... i usually crop during post. Image size wise, the JPGs are weighting in at about  15-17MB each and the RAW images are in around high 60s low 70MB range...
 
-![image file sizes](/wp-content/uploads/2016/01/20160123-filesize.PNG)
+![image file sizes]((https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/20160123-filesize.PNG)
 
 Which meant upgrading all my cards to larger ones and also upgrading the readers. It shoots of both CF and SD, so i shoot with a couple of [Lexar Professional 800x 64Gb CF](http://www.amazon.co.uk/gp/product/B00HYRF8H2/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00HYRF8H2&linkCode=as2&tag=tiescomclo-21) and a few [Sandisk Extreme 64Gb SDXC](http://amzn.to/2eHrvNd) cards, aswell as an [EyeFi Mobi Pro 32Gb](http://www.amazon.co.uk/gp/product/B00UADC43I/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00UADC43I&linkCode=as2&tag=tiescomclo-21) every now and again... Reading wise, its Lexar again, using the [Lexar Professional Workflow system](http://amzn.to/2x9DQn6) with a HR1 hub (which, due to a technical issue with the wrong power supply, i may have let the magical blue smoke out of and need to replace...) a 512Gb data drive, 2 CF and 2 SD readers. other than blowing up the hub (and possibly one of the CF readers... i was jet lagged and very sleepy) the rest is going very well!
 

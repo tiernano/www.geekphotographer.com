@@ -8,7 +8,7 @@ dsq_needs_sync:
 categories:
   - Software
 ---
-[<img class="alignnone size-full wp-image-451" src="http://www.geekphotographer.com/wp-content/uploads/2015/04/lightroomcc.jpg" alt="lightroomcc" width="640" height="460" />][1]
+![](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/)
 
 Adobe have just released Lightroom 6, AKA Lightroom CC. If like me, you are on the [Photoshop and Lightroom $9.99 offer][2], this will be a free upgrade. Or, if your like a lot of people who are angry at Adobe, you can buy it outright. but either way, whats it get you?
 
@@ -28,7 +28,6 @@ There is some more info at the following pages:
 
 [DPReview][5]
 
- [1]: http://www.geekphotographer.com/wp-content/uploads/2015/04/lightroomcc.jpg
  [2]: http://bit.ly/1cHsDqi
  [3]: http://www.adobe.com/products/photoshop-lightroom.html
  [4]: http://petapixel.com/2015/04/21/adobe-unveils-lightroom-cc-speed-boost-raw-hdr-and-pano-face-finding-and-more/

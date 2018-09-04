@@ -15,7 +15,9 @@ tags:
   - samsung
   - wifi
 ---
-![Samsung Galaxy Camera][1]Ok, so last week, Nikon announced their Android powered camera, The [Coolpix S800C][2]. It &#8220;seemed&#8221; interesting, but a couple things got me… for one, it was running Android 2.3.3, which is way too old… and 2, it's a Nikon, and I am a Canon Guy… <span style="font-family: Wingdings;">J</span>
+![Samsung Galaxy Camera][1]
+
+Ok, so last week, Nikon announced their Android powered camera, The [Coolpix S800C][2]. It &#8220;seemed&#8221; interesting, but a couple things got me… for one, it was running Android 2.3.3, which is way too old… and 2, it's a Nikon, and I am a Canon Guy…
 
 ![Nikon Coolpix S800C][3]
 
@@ -27,7 +29,7 @@ It is running the latest version of Android, Jelly Bean 4.1, and has both Wi-Fi 
 
 No word on price, but I defiantly think I want one of these! For more info, check the [Engadget article][4].
 
- [1]: http://geekphotographer.com/wp-content/uploads/2012/08/083012_0752_SamsungandN1.jpg
+ [1]: https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/083012_0752_SamsungandN1.jpg
  [2]: http://www.engadget.com/2012/08/22/nikon-coolpix-s800c-android-camera-pricing-ship-date-details/
- [3]: http://geekphotographer.com/wp-content/uploads/2012/08/083012_0752_SamsungandN2.jpg
+ [3]: https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/083012_0752_SamsungandN2.jpg
  [4]: http://www.engadget.com/2012/08/29/samsung-ek-gc100-galaxy-camera-hands-on/
