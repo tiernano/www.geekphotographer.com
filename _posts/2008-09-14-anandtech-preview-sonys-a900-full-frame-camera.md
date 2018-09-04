@@ -1,5 +1,5 @@
 ---
-title: 'Anandtech preview Sony&#039;s A900 Full frame camera'
+title: 'Anandtech preview Sony's A900 Full frame camera'
 author: tiernano
 layout: post
 permalink: /anandtech-preview-sonys-a900-full-frame-camera/

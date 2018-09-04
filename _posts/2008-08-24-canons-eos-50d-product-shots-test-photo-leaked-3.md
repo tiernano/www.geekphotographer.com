@@ -1,5 +1,5 @@
 ---
-title: 'Canon&#039;s EOS 50D product shots, test photo leaked'
+title: 'Canon's EOS 50D product shots, test photo leaked'
 author: tiernano
 layout: post
 permalink: /canons-eos-50d-product-shots-test-photo-leaked-3/

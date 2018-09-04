@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to Tiernan O&#039;Toole Photography'
+title: 'Welcome to Tiernan O'Toole Photography'
 author: tiernano
 layout: page
 dsq_thread_id:

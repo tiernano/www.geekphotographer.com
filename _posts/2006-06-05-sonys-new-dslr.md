@@ -1,5 +1,5 @@
 ---
-title: 'Sony&#039;s new DSLR'
+title: 'Sony's new DSLR'
 author: tiernano
 layout: post
 permalink: /sonys-new-dslr/

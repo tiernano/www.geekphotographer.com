@@ -1,5 +1,5 @@
 ---
-title: 'Casio&#039;s 60FPS, 6MP camera/camcorder'
+title: 'Casio's 60FPS, 6MP camera/camcorder'
 author: tiernano
 layout: post
 permalink: /casios-60fps-6mp-cameracamcorder/
