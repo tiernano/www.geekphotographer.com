@@ -1,8 +1,7 @@
 ---
-pages:
-- _posts/2017-10-18-adobe-announce-lightroom-cc-classic-lightroom-cc.md
-- _posts/2017-08-24-nikon-d850-announced.md
+label: posts
 hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -29,3 +28,6 @@ fields:
   type: datetime
   hidden: false
   default: ''
+pages:
+- _posts/2017-10-18-adobe-announce-lightroom-cc-classic-lightroom-cc.md
+- _posts/2017-08-24-nikon-d850-announced.md
