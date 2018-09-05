@@ -29,5 +29,6 @@ fields:
   hidden: false
   default: ''
 pages:
+- _posts/canon-announce-eos-r-full-frame-mirror-less-camera.md
 - _posts/2017-10-18-adobe-announce-lightroom-cc-classic-lightroom-cc.md
 - _posts/2017-08-24-nikon-d850-announced.md
