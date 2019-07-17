@@ -3,7 +3,10 @@ title: Canon Announce EOS-R Full frame mirror less Camera
 date: 2018-09-05 00:00:00 +0000
 author: tiernano
 layout: post
-categories: []
+categories: 
+    - canon
+    - announcements
+    - hardware
 
 ---
 ![](https://images.tiernanotoole.net/image/?inputImage=geekphotographer/cam2-750x600.jpg)
