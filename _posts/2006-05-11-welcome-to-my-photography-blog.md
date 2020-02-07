@@ -11,6 +11,7 @@ blogger_permalink:
   - /2006/05/welcome-to-my-photography-blog.html
 categories:
   - Uncategorized
+date: 2006-05-11T00:00:00.000Z
 ---
 Welcome to my Photography blog. This blog will be where most of my photography stuff will eventually live. I have some stuff on my [main blog][1], which i will be porting over, but it may take a few days for that to fully happen. till then, check out the photography section of my main blog [here][2]  
 

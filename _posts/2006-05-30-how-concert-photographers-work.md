@@ -13,6 +13,7 @@ dsq_thread_id:
   - 1803455727
 categories:
   - Uncategorized
+date: 2006-05-30T00:00:00.000Z
 ---
 Check out this article talking about [how Concert Photographers work][1], talking about equipment, getting in to the pit, etc. very cool and interesting stuff. its one of those things i would like to get into, just for the fun of it. i have tried to take photos at at wedding, of the band (which i have to upload eventually) and i though they turned out ok. what you think of them is an other story! 
 

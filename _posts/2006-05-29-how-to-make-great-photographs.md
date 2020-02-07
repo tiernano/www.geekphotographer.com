@@ -11,6 +11,7 @@ blogger_permalink:
   - /2006/05/how-to-make-great-photographs.html
 categories:
   - Uncategorized
+date: 2006-05-29T00:00:00.000Z
 ---
 *&#8220;Photography is the power of observation, not the application of technology.&#8221; Ken Rockwell. *
 

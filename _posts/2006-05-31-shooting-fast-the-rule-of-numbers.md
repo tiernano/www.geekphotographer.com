@@ -13,6 +13,7 @@ dsq_thread_id:
   - 2138426350
 categories:
   - Uncategorized
+date: 2006-05-31T00:00:00.000Z
 ---
 Jeff Cable over on the Lexar Digital Photography site, has a tip on [shooting fast][1]. the more photos you take of a single event, the better. I use this a lot when taking photos. My Camera, a Canon 350D, can shoot at about 3 frames a second for up to 14 shots. this is very handy. and a good tip!
 

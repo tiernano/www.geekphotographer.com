@@ -11,7 +11,7 @@ blogger_permalink:
 - "/2006/06/sonys-new-dslr.html"
 categories:
 - Uncategorized
-
+date: 2006-06-05T00:00:00.000Z
 ---
 Engadget has some info about Sonys new DLSR, the [Alpha A100][1]. Its a 10.2Mp, DLSR, which some weird and wonderful features. and, before its even out the door [sony has 20 lenses][2] for it too. Cost? $999 and shipping around July 28th. 
 

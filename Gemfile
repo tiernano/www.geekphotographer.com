@@ -1,8 +1,6 @@
 source 'https://rubygems.org'
 gem 'json'
-gem 's3_website'
 gem 'jekyll-seo-tag'
-gem 'redcarpet'
 gem 'jekyll-archives'
 gem 'jekyll-redirect-from'
 gem 'jekyll-paginate'

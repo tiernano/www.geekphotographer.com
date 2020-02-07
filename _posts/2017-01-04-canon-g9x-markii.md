@@ -5,6 +5,7 @@ layout: post
 categories:
   - Camera
   - Hardware
+date: 2017-01-04T00:00:00.000Z
 ---
 
 ![Canon G9 X Mark II](https://images.tiernanotoole.net/Image/?inputImage=geekphotographer/PowerShot-G9-X-Mark-II-Black_1_xl.jpg "Canon G9 X MK II")

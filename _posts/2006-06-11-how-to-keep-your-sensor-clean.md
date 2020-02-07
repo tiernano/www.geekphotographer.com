@@ -11,6 +11,7 @@ blogger_permalink:
   - /2006/06/how-to-keep-your-sensor-clean.html
 categories:
   - Uncategorized
+date: 2006-6-11T00:00:00.000Z
 ---
 Check out this tip on DIY Photography telling you how to keep your [digital sensor clean from dust][1], etc. Very handy tip! 
 

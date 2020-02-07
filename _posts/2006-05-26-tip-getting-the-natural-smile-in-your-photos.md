@@ -13,6 +13,7 @@ dsq_thread_id:
   - 441367736
 categories:
   - Uncategorized
+date: 2006-05-26T00:00:00.000Z
 ---
 first tip on the blog and its from [Lifehacker.com telling you how to get natural smiles][1] on your photos:
 
